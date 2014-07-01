@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+body{
+	direction: rtl;
+}
+
+table, tr, td, th, tbody, thead, tfoot{
+	border: 1px solid black;
+}
